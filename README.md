@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Jooeon!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=51&descAlign=62"/>
 </div>
 
+안녕하세요!
+
 <!-- 구분선 -->
 ---
 <!-- GitHub Status -->
@@ -66,4 +68,4 @@ Here are some ideas to get you started:
     <a href="mailto:cacophony0609@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div><br>
+</div><br> 
